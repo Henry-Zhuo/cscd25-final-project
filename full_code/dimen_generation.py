@@ -4,7 +4,7 @@ import pandas as pd
 import os
 
 def load_embedding():
-    embedding_folder = os.path.join(os.path.dirname(__file__), 'embedding')
+    embedding_folder = os.path.join(os.path.dirname(__file__), 'data/embeddings')
     vectors_path = os.path.join(embedding_folder, "vectors.tsv")
     metadata_path = os.path.join(embedding_folder, "metadata.tsv")
     meta = pd.read_csv(metadata_path, sep='\t', header=None)
