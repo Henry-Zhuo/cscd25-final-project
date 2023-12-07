@@ -48,4 +48,5 @@ Reddit is an American social media platform, that has communities (subreddits) t
 Github: https://github.com/CSSLab/social-dimensions
 [2] Knight, K. (2022, October 24). Why Movies Set in Seattle Are Filmed in Canada, and How the City Wants to Change That. MovieWeb. https://movieweb.com/why-are-films-set-in-seattle-filmed-in-canada/
 [3] Veselovsky V., Anderson, A. Reddit in the Time of COVID. ICWSM 2023. https://www.cs.utoronto.ca/~ashton/pubs/reddit-covid-icwsm23.pdf
+[4] Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
 
